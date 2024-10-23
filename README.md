@@ -8,6 +8,7 @@ Olá, neste documento serão descritos os passos básicos para enviar e-mails ut
 Abra seu navegador de internet (**Microsoft Edge**, **Google Chrome**, **Mozilla Firefox**, e outros) e utilize a **barra de endereços** para acessar o site do Gmail https://mail.google.com, aperte **Enter** no teclado, após inserir o endereço.
 
 ![img_barra](https://i.imgur.com/pd6uX75.png)
+
 Na próxima tela exibida, **insira seu e-mail e senha** ou crie uma conta caso ainda não tenha.
 
 <li>Clique no botão "Escrever"</li>
