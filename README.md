@@ -17,6 +17,7 @@ Na próxima tela exibida, **insira seu e-mail e senha** ou crie uma conta caso a
 Após clicar, será exibida a janela **Nova mensagem**, onde serão preenchidas as informações do e-mail.
 
 ![img_barra](https://i.imgur.com/N6COZdM.png)
+
 O campo **Para** se trata do destinatário do e-mail, como por exemplo roberto@outlook.com (Você pode inserir múltiplos destinatários para o mesmo e-mail, basta acrescentar um espaço e digitar o próximo, ou clicar em **Cc**, que significa "com cópia"). 
 O botão **CCo**, significa "cópia oculta", ele deve ser utilizado para enviar e-mails para mais de um destinatário, sem que eles tenham conhecimento um do outro.
 
@@ -27,6 +28,7 @@ O espaço em branco abaixo dos dois campos anteriores, se trata do **corpo do e-
 É muito comum precisar enviar arquivos **anexados** ao e-mail, caso precise, clique no ícone :paperclip:, ele abrirá o gerenciador de arquivos (no exemplo estamos utilizando o Windows 11) onde você pode escolher o arquivo à ser enviado e clicar em **Abrir**.
 
 ![img_barra](https://i.imgur.com/UCWK7O9.png)
+
 Após isso, basta clicar no botão **Enviar**.
 </ul>
 
